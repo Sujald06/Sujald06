@@ -34,7 +34,7 @@
 
 ### 🚀 Featured Projects  
 
-#### 🧾 [Sales & Customer Insights Dashboard]((https://github.com/Sujald06/Sales-Customer-Insights-Dashboard))
+#### 🧾 [Sales & Customer Insights Dashboard](https://github.com/Sujald06/Sales-Customer-Insights-Dashboard)
 🔧 **Tools:** Python, SQL, Power BI, Pandas, NumPy  
 📈 Cleaned and analyzed 50K+ rows of Superstore sales data to identify product and region-wise trends.  
 📊 Built an interactive **Power BI dashboard** showing revenue, profit margins, and customer behavior patterns.  
