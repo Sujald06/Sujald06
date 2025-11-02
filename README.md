@@ -42,7 +42,7 @@
 
 ---
 
-#### 📉 [Customer Churn Prediction](https://github.com/Sujald06/Customer-Churn-Prediction)
+#### 📉 [Customer Churn Prediction](https://github.com/Sujald06/Customer-Churn-Analysis)
 🔧 **Tools:** Python, Scikit-learn, Matplotlib, Seaborn  
 📊 Analyzed telecom data to identify churn patterns using feature correlation and visualization.  
 🧠 Built and tuned **Logistic Regression** & **Random Forest** models achieving **88% accuracy**.  
