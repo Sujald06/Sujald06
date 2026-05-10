@@ -1,165 +1,156 @@
-<!-- Professional GitHub Profile README -->
+<!-- GitHub Profile README — Sujal Deshmukh -->
 
-<h1 align="center">👋 Hi, I'm Sujal Vilas Deshmukh</h1>
-<h3 align="center">
-🤖 AI & LLM Analyst &nbsp;|&nbsp; 🔍 Data Annotation Specialist &nbsp;|&nbsp; ✍️ Prompt Engineering Specialist
-</h3>
+<div align="center">
 
-<p align="center">
+# Sujal Deshmukh
+
+### 🤖 AI LLM Analyst &nbsp;·&nbsp; ⚙️ AI Engineer &nbsp;·&nbsp; 📊 ML Engineer &nbsp;·&nbsp; 🕹️ AI Agentic Engineer
+
+<p>
   <a href="mailto:sujaldeshmukhwork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/sujal-deshmukh-a93060349/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/Sujald06">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Sujald06&style=flat-square&color=0e75b6" alt="Profile views"/>
+
+</div>
+
 ---
 
 ## 🧠 About Me
 
-🎯 Results-driven **AI & LLM professional** with hands-on experience building, evaluating, and optimizing large language model pipelines, RAG architectures, and prompt engineering frameworks.  
-🤖 Proven track record in **LLM evaluation, SFT support, RLHF workflows, and AI quality assurance** at scale.  
-📊 Skilled in **Python, SQL, and ML modeling**, with end-to-end project delivery across fraud detection, churn prediction, and enterprise chatbots.  
-🌍 Experienced in **remote cross-functional environments** with global research and engineering teams.
+I'm an **AI & LLM Engineer** based in Panvel, Maharashtra, India — focused on building, evaluating, and deploying intelligent systems powered by large language models and agentic AI.
+
+- 🔭 Currently: **Analyst – AI/LLM Engineering** at **Innodata India Pvt. Ltd.**
+- 🤖 Specializing in **LLM evaluation, RAG systems, agentic AI pipelines, and prompt engineering**
+- 🛠️ Building production-grade AI systems end-to-end — from data to deployment
+- 🎓 B.E. Computer Engineering, **Mumbai University** (2025)
+- 📫 **sujaldeshmukhwork@gmail.com**
 
 ---
 
-## ⚙️ Technical Skills
+## ⚙️ Tech Stack
 
-| Category | Skills |
-|---|---|
-| 🤖 **LLM & AI** | LLM Evaluation, Prompt Engineering, SFT, RLHF, Output Ranking & Scoring, Hallucination Detection, Quality & Safety Analysis, RAG, LangChain, Vector Databases |
-| 📊 **ML & Data Science** | EDA, Feature Engineering, Forecasting, Logistic Regression, Random Forest, LSTM, Model Evaluation, Drift Detection |
-| 🐍 **Programming** | Python, R, SQL |
-| 📚 **Frameworks & Libs** | Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, FastAPI, Docker, LangChain, Streamlit |
-| 📈 **Visualization & BI** | Power BI, Tableau, Excel (Power Query, Pivot Tables) |
-| 🧰 **Platforms & Tools** | VS Code, Jupyter Notebook, Git, GitHub, Hugging Face Transformers |
+**LLM & Agentic AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+**ML & Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+**Deployment & Infrastructure**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Analyst – AI/LLM Engineering
-**Innodata India Pvt. Ltd.** &nbsp;|&nbsp; *Nov 2025 – Present* &nbsp;|&nbsp; 🌐 Remote
+### Analyst – AI/LLM Engineering &nbsp;|&nbsp; Innodata India Pvt. Ltd. &nbsp;|&nbsp; *Nov 2025 – Present* &nbsp;|&nbsp; Remote
 
-- Designed and executed structured **LLM evaluation pipelines** using ranking, scoring, and error categorization frameworks — directly improving model accuracy, relevance, and safety alignment across large-scale assessments.
-- Contributed to **supervised fine-tuning (SFT) and RLHF-style workflows** by curating high-quality training datasets, validating model outputs, and identifying edge cases that caused performance degradation.
-- Developed and maintained **Python automation scripts** to streamline evaluation result analysis, cutting manual effort and accelerating turnaround time for model assessments at scale.
-- Collaborated cross-functionally with global researchers, QA specialists, and ML engineers in a remote-first setup — resolving annotation ambiguities, refining evaluation guidelines, and ensuring consistency across AI workflows.
-- Applied prompt engineering best practices — including **chain-of-thought, few-shot, and instruction tuning** — to optimize LLM responses for quality, coherence, and policy compliance.
+- Designed and executed structured **LLM evaluation pipelines** using ranking, scoring, and error categorization frameworks
+- Contributed to **SFT and RLHF-style workflows** — curating training datasets, validating outputs, identifying edge cases
+- Built **Python automation scripts** to streamline evaluation result analysis at scale
+- Applied **chain-of-thought, few-shot, and instruction tuning** to optimize LLM response quality and policy compliance
+- Collaborated cross-functionally with global researchers, QA specialists, and ML engineers in a remote-first setup
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔍 LLM Evaluation & Benchmarking Tool
-**Tools:** Python · Hugging Face · Custom Scoring Framework
+> `Python` `Hugging Face` `Custom Scoring Framework`
 
-- Architected an end-to-end automated evaluation pipeline to benchmark multiple LLMs on **accuracy, relevance, and safety** — producing comparative evaluation reports.
-- Implemented **hallucination detection** and unsafe response flagging, establishing a feedback loop that measurably improved model output quality.
-- Built a configurable **scoring and ranking framework**, enabling objective comparison of LLM generations across diverse task categories.
-
-🔒 *Internal tooling — code available on request*
-
----
-
-### 📚 Enterprise RAG Chatbot
-**Tools:** LangChain · FAISS · OpenAI · Streamlit
-
-- Built a production-grade **Retrieval-Augmented Generation (RAG)** chatbot using LangChain, ingesting PDFs and web content into a vector database with semantic search for high-precision retrieval.
-- Implemented **citation-based response generation** to ensure traceability and reduce hallucinations.
-- Deployed an interactive UI via **Streamlit**.
+End-to-end automated pipeline to benchmark LLMs on accuracy, relevance, and safety. Features hallucination detection, unsafe response flagging, and a configurable scoring framework for objective model comparison.
 
 🔒 *Code available on request*
 
 ---
 
-### ✍️ Prompt Optimization Engine
-**Tools:** Python · Few-Shot Learning · Chain-of-Thought · A/B Testing
+### 🤖 Enterprise RAG Chatbot
+> `LangChain` `FAISS` `OpenAI` `Streamlit`
 
-- Designed a systematic framework to diagnose and improve low-quality prompts using **few-shot learning** and **chain-of-thought techniques**, achieving measurable quality improvements via A/B testing.
-- Built a reusable **prompt template library** and evaluation scoring system to standardize prompt engineering across workflows.
+Production-grade RAG chatbot ingesting PDFs and web content into a FAISS vector database. Citation-based responses for traceability and hallucination reduction, with a full Streamlit UI.
+
+🔗 [View Repository](https://github.com/Sujald06)
+
+---
+
+### ✍️ Prompt Optimization Engine
+> `Python` `Few-Shot Learning` `Chain-of-Thought` `A/B Testing`
+
+Systematic framework to diagnose and improve low-quality prompts. Includes a reusable prompt template library, evaluation scoring system, and A/B testing for measurable quality improvements.
 
 🔒 *Code available on request*
 
 ---
 
 ### 🛡️ Real-Time Fraud Detection System
-**Tools:** Python · Scikit-learn · FastAPI · Docker
+> `Python` `Scikit-learn` `FastAPI` `Docker`
 
-- Engineered and deployed an **ML classification model** for real-time fraud detection using FastAPI, containerized with Docker for scalable production readiness.
-- Implemented **model monitoring and drift detection** pipelines to maintain performance in production over time.
+Real-time ML fraud detection model deployed via FastAPI, containerized with Docker. Includes model monitoring and drift detection pipelines for sustained production accuracy.
 
-🔒 *Code available on request*
+🔗 [View Repository](https://github.com/Sujald06)
 
 ---
 
 ### 📊 Customer Intelligence & Churn Prediction Platform
-**Tools:** Python · SQL · Power BI · Random Forest
+> `Python` `SQL` `Power BI` `Random Forest`
 
-- Analyzed large-scale customer datasets using Python and SQL to surface churn patterns; built classification models evaluated on **accuracy, precision, and recall**.
-- Delivered interactive **Power BI dashboards** and data-driven retention recommendations to business stakeholders.
+Large-scale customer churn analysis using Python and SQL, with classification models evaluated on accuracy, precision, and recall — plus interactive Power BI dashboards for stakeholders.
 
 🔗 [View Repository](https://github.com/Sujald06/Customer-Churn-Analysis)
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certification
 
-🎓 **Bachelor of Engineering – Computer Engineering**  
-📍 Mumbai University &nbsp;|&nbsp; *Dec 2021 – May 2025*  
-📊 CGPA: **7.25 / 10**
+🎓 **B.E. Computer Engineering** — Mumbai University | 2021–2025 | CGPA: 7.25/10
 
----
-
-## 🏅 Certification
-
-### 🎓 Data Science & Artificial Intelligence Certification — Udemy
-
-- Intensive program covering **Python, SQL, statistics, EDA, machine learning, deep learning, NLP, and Generative AI**.
-- Hands-on projects with **Transformers, LLMs, vector databases, LangChain, and RAG** — including AI chatbots, text-to-SQL systems, research assistants, and automated data pipelines.
-
-🔗 [View Certificate](https://www.udemy.com/certificate/UC-093f88b0-8697-4cc9-80a8-62fa528ccbd1/)
+🏅 **Data Science & AI Certification** — Udemy | [View Certificate](https://www.udemy.com/certificate/UC-093f88b0-8697-4cc9-80a8-62fa528ccbd1/)
+> Python · SQL · EDA · ML · Deep Learning · NLP · LLMs · RAG · LangChain · Vector Databases
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujald06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujald06&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujald06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujald06&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujald06&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
-</p>
+</div>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sujal-deshmukh-a93060349/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Sujald06">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:sujaldeshmukhwork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sujald06&style=for-the-badge&color=0e75b6" alt="Profile views"/>
-</p>
-
----
-
-<p align="center">
-  ⭐ <em>"Evaluated intelligence is the foundation of trustworthy AI."</em> ⭐
-</p>
+<div align="center">
+  <em>"Build systems that think. Evaluate systems that reason. Engineer AI that delivers."</em>
+</div>
