@@ -4,13 +4,62 @@
 
 <div align="center">
 
-# ⚡ Sujal Deshmukh
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,50:2563eb,100:7c3aed&text=Sujal%20Deshmukh&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI/LLM%20ANALYST%20•%20AI/ML%20DEVELOPER%20•%20AGENTIC%20AI%20ENGINEER&descAlignY=60"/>
 
-### AI/LLM ANALYST • AI/ML DEVELOPER • AGENTIC AI ENGINEER • PROMPT ENGINEER
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Systems;LLM+Evaluation+%7C+RAG+Pipelines+%7C+Agentic+AI;Prompt+Engineering+%7C+RLHF+%7C+Automation;Generative+AI+Engineer+from+India" />
+<div align="center">
+
+### ⚡ AI/LLM ANALYST • AI/ML DEVELOPER • AGENTIC AI ENGINEER • PROMPT ENGINEER
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Building+Intelligent+AI+Systems;Designing+Advanced+RAG+Pipelines;Developing+Autonomous+AI+Agents;Prompt+Engineering+%7C+RLHF+%7C+SFT;Generative+AI+Engineer+from+India;Scaling+LLM+Evaluation+Workflows"/>
 
 <br/>
+
+<img src="https://img.shields.io/github/followers/Sujald06?label=Followers&style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/stars/Sujald06?label=Stars&style=for-the-badge&color=7c3aed"/>
+<img src="https://komarev.com/ghpvc/?username=Sujald06&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🧠 ABOUT ME
+
+<img align="right" height="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F3c2h6dG9mZXAwZ2s2eXR1c2x6YjU4dXJ1MXh4Y3l4ODNwcWl0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
+
+🚀 Passionate about building intelligent AI systems powered by:
+
+- Large Language Models (LLMs)
+- Agentic AI Systems
+- Prompt Engineering
+- RAG Pipelines
+- AI Workflow Automation
+- RLHF & SFT
+
+⚡ Experienced in designing scalable AI workflows using:
+
+- LangChain
+- OpenAI APIs
+- Hugging Face
+- FAISS
+- FastAPI
+- Docker
+- Streamlit
+
+💡 Strong focus on:
+
+✔ Autonomous AI Agents  
+✔ LLM Evaluation Pipelines  
+✔ Enterprise AI Systems  
+✔ Production AI Deployment  
+✔ AI Infrastructure Engineering  
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
 
 <a href="mailto:sujaldeshmukhwork@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -24,24 +73,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sujald06&label=Profile%20Views&color=0e75b6&style=flat" />
-
 </div>
-
----
-🚀 Passionate about designing and deploying intelligent AI systems powered by **LLMs, Agentic Workflows, RAG Pipelines, and Prompt Optimization**.
-
-⚡ Experienced in evaluating, improving, and scaling AI systems using **LangChain, FAISS, Hugging Face, OpenAI APIs, FastAPI, Docker, and Streamlit**.
-
-💡 Strong interest in:
-- Generative AI
-- Autonomous AI Agents
-- AI Evaluation Systems
-- AI Infrastructure
-- Applied Machine Learning
-- Production AI Deployment
 
 ---
 
@@ -49,11 +81,11 @@
 
 <div align="center">
 
-## 🧠 AI / LLM / AGENTIC AI
+## 🧠 AI • LLM • AGENTIC AI
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -61,23 +93,23 @@
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-Pipeline-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RLHF-Training-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SFT-Fine_Tuning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RLHF-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SFT-orange?style=for-the-badge"/>
 
 ---
 
-## ⚡ BACKEND & DEPLOYMENT
+## ⚡ BACKEND • DEPLOYMENT • TOOLS
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,vscode"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ---
 
-## 📊 DATA & VISUALIZATION
+## 📊 DATA • VISUALIZATION
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
@@ -89,92 +121,110 @@
 
 # 💼 EXPERIENCE
 
+<div align="center">
+
 ## 🏢 AI/LLM ANALYST — INNODATA INDIA PVT. LTD.
 
-📍 Remote  
-📅 Nov 2025 – Present
+📍 Remote • 📅 Nov 2025 – Present
 
-### 🔹 Responsibilities
+</div>
 
-✔ Worked on large-scale **LLM Evaluation Pipelines**
+### 🔹 Key Responsibilities
 
-✔ Performed:
+✔ Designed and improved **LLM Evaluation Pipelines**
+
+✔ Worked on:
+
 - Prompt Engineering
-- Response Ranking
 - RLHF Workflows
-- Safety Evaluation
-- Quality Analysis
+- Response Ranking
+- AI Safety Evaluation
+- Quality Assessment
 
-✔ Built Python automation systems for:
-- AI evaluation
-- workflow optimization
-- scalable processing
+✔ Built scalable Python automation workflows
 
-✔ Collaborated with global AI research and engineering teams
+✔ Collaborated with international AI research teams
 
 ✔ Improved:
-- reasoning quality
-- hallucination detection
-- response relevance
-- AI safety compliance
+
+- Hallucination Detection
+- Response Accuracy
+- AI Reasoning
+- Policy Compliance
 
 ---
 
 # 🚀 FEATURED PROJECTS
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sujald06&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
 # 🤖 AI Agentic Research Assistant
 
-### Tech Stack
+### 🛠 Tech Stack
+
 `LangChain` `OpenAI` `FAISS` `Streamlit`
 
-### Features
-- Multi-Agent AI architecture
-- Autonomous research workflows
-- Memory-enabled contextual retrieval
-- AI-powered document summarization
-- Automated report generation
+### ✨ Features
+
+- Multi-Agent AI Architecture
+- Autonomous Research Workflows
+- Memory-Enabled Retrieval
+- AI Document Summarization
+- Automated Report Generation
 
 ---
 
 # 📊 LLM Evaluation & Benchmarking Tool
 
-### Tech Stack
+### 🛠 Tech Stack
+
 `Python` `Hugging Face` `Custom Scoring Framework`
 
-### Features
-- Automated LLM benchmarking pipeline
-- Hallucination detection system
-- Unsafe response flagging
-- Evaluation scoring framework
-- Multi-model comparison dashboard
+### ✨ Features
+
+- Automated LLM Benchmarking
+- Hallucination Detection
+- Unsafe Response Flagging
+- Configurable Evaluation Metrics
+- Multi-Model Comparison Dashboard
 
 ---
 
 # 💬 Enterprise RAG Chatbot
 
-### Tech Stack
+### 🛠 Tech Stack
+
 `LangChain` `FAISS` `Streamlit`
 
-### Features
-- Semantic document retrieval
-- PDF ingestion pipeline
-- Citation-aware response generation
-- Enterprise-ready AI chatbot interface
-- Context-aware AI responses
+### ✨ Features
+
+- Semantic Search Pipelines
+- PDF Ingestion Workflow
+- Citation-Based Responses
+- Enterprise-Ready Architecture
+- Context-Aware AI Responses
 
 ---
 
 # 🛡️ Real-Time Fraud Detection System
 
-### Tech Stack
+### 🛠 Tech Stack
+
 `Python` `FastAPI` `Docker`
 
-### Features
-- ML classification pipelines
-- Real-time fraud prediction
-- API deployment with FastAPI
-- Dockerized architecture
-- Drift monitoring workflows
+### ✨ Features
+
+- Real-Time Fraud Prediction
+- ML Classification Pipelines
+- API Deployment
+- Dockerized Infrastructure
+- Drift Monitoring Workflows
 
 ---
 
@@ -184,93 +234,15 @@
 class SujalDeshmukh:
 
     def __init__(self):
-        self.learning = [
+
+        self.current_focus = [
             "Agentic AI Systems",
             "Advanced RAG Architectures",
             "LLM Evaluation",
             "AI Infrastructure",
-            "Generative AI"
-        ]
-
-        self.interests = [
-            "AI Research",
             "Prompt Engineering",
-            "LLM Fine-Tuning",
-            "AI Automation",
-            "Scalable AI Systems"
+            "Production AI Deployment"
         ]
 
     def future_goal(self):
-        return "Build production-grade AI systems used at global scale."
-```
-
----
-
-# 🎓 EDUCATION
-
-## 🎓 Bachelor of Engineering — Computer Engineering
-
-🏫 Mumbai University  
-📅 2021 – 2025
-
-📈 CGPA: **7.25 / 10**
-
----
-
-# 📜 CERTIFICATIONS
-
-## 🏅 Data Science & AI Certification — Udemy
-
-### Covered Topics
-- Machine Learning
-- Deep Learning
-- NLP
-- Generative AI
-- LangChain
-- Transformers
-- RAG Systems
-- Vector Databases
-
----
-
-# 📈 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sujald06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujald06&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujald06&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 SPECIALIZATIONS
-
-<div align="center">
-
-| Domain | Expertise |
-|---|---|
-| 🤖 Generative AI | Advanced |
-| 🧠 LLM Evaluation | Advanced |
-| ⚡ Prompt Engineering | Advanced |
-| 🔍 RAG Pipelines | Advanced |
-| 🤝 Agentic AI Systems | Advanced |
-| 📊 Machine Learning | Intermediate |
-| 🚀 AI Deployment | Intermediate |
-
-</div>
-
----
-
-<div align="center">
-
-# 💡 BUILDING AI SYSTEMS THAT THINK, RETRIEVE, REASON & SCALE
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
-
-</div>
+        return "Build intelligent AI systems used at global scale."
