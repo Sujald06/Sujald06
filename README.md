@@ -179,28 +179,6 @@ Focus:
 ### ⚙️ Stack
 `Python` `FastAPI` `Docker`
 
----
-
-# 📈 CURRENT FOCUS
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Agentic+AI+Systems;Advanced+RAG+Architectures;LLM+Evaluation+Pipelines;Production+Grade+AI+Systems;Generative+AI+Applications"/>
-
-</div>
-
-```python
-class SujalDeshmukh:
-
-    def build(self):
-        return [
-            "LLM Systems",
-            "RAG Pipelines",
-            "AI Agents",
-            "Automation Workflows",
-            "Generative AI Applications"
-        ]
-```
 
 ---
 
