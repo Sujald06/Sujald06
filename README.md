@@ -1,3 +1,4 @@
+````md
 <!-- ========================================================= -->
 <!--                 SUJAL DESHMUKH README                     -->
 <!-- ========================================================= -->
@@ -44,16 +45,16 @@ Focus:
   - RAG Pipelines
   - Generative AI
   - AI Automation
-```
+````
 
 🚀 Passionate about building intelligent AI systems powered by:
 
-- Large Language Models (LLMs)
-- Autonomous AI Agents
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- AI Workflow Automation
-- RLHF & SFT
+* Large Language Models (LLMs)
+* Autonomous AI Agents
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* AI Workflow Automation
+* RLHF & SFT
 
 ⚡ Skilled in designing scalable AI applications using:
 
@@ -101,13 +102,13 @@ Focus:
 
 ### 🔹 Responsibilities
 
-✔ Large-Scale LLM Evaluation Pipelines  
-✔ Prompt Engineering & Response Ranking  
-✔ RLHF & SFT Workflows  
-✔ AI Safety & Quality Evaluation  
-✔ Python Automation Systems  
-✔ Hallucination Detection  
-✔ AI Workflow Optimization  
+✔ Large-Scale LLM Evaluation Pipelines
+✔ Prompt Engineering & Response Ranking
+✔ RLHF & SFT Workflows
+✔ AI Safety & Quality Evaluation
+✔ Python Automation Systems
+✔ Hallucination Detection
+✔ AI Workflow Optimization
 
 ---
 
@@ -121,64 +122,129 @@ Focus:
 
 ---
 
-## 🤖 AI Agentic Research Assistant
+## 🤖 Agentic AI Research & Automation System
+
+🔗 [https://github.com/Sujald06/crewAI-main](https://github.com/Sujald06/crewAI-main)
 
 ```diff
 + Multi-Agent AI Architecture
 + Autonomous Research Workflows
-+ Memory-Enabled Retrieval
++ Intelligent Task Orchestration
 + AI-Powered Summarization
 + Automated Report Generation
 ```
 
 ### ⚙️ Stack
-`LangChain` `OpenAI` `FAISS` `Streamlit`
+
+`Python` `CrewAI` `FastAPI` `OpenAI API` `Multi-Agent AI`
 
 ---
 
 ## 📊 LLM Evaluation & Benchmarking Tool
 
+🔗 [https://github.com/Sujald06/deepeval-main](https://github.com/Sujald06/deepeval-main)
+
 ```diff
 + Automated LLM Benchmarking
 + Hallucination Detection
-+ Unsafe Response Flagging
-+ Evaluation Metrics System
-+ Multi-Model Comparison
++ RAG Evaluation Metrics
++ LLM-as-a-Judge Workflows
++ CI/CD Evaluation Pipelines
 ```
 
 ### ⚙️ Stack
-`Python` `Hugging Face`
+
+`Python` `DeepEval` `LangChain` `Pytest` `RAG Evaluation`
 
 ---
 
-## 💬 Enterprise RAG Chatbot
+## 💬 Enterprise RAG Chatbot (v3)
+
+🔗 [https://github.com/Sujald06/rag-bot-fastapi-main](https://github.com/Sujald06/rag-bot-fastapi-main)
 
 ```diff
-+ Semantic Search Pipelines
-+ PDF Ingestion Workflow
-+ Citation-Aware Responses
-+ Enterprise AI Chatbot
-+ Context-Aware Generation
++ Multi-PDF Upload Support
++ Semantic Vector Retrieval
++ ChromaDB Integration
++ Dual LLM Support (Groq + Gemini)
++ Downloadable Chat History
 ```
 
 ### ⚙️ Stack
-`LangChain` `FAISS` `Streamlit`
+
+`Python` `FastAPI` `Streamlit` `ChromaDB` `LangChain`
 
 ---
 
-## 🛡️ Real-Time Fraud Detection System
+## 🛡️ ML Model Monitoring & Evaluation System
+
+🔗 [https://github.com/Sujald06/evidently-main](https://github.com/Sujald06/evidently-main)
 
 ```diff
-+ Real-Time Fraud Prediction
-+ ML Classification Pipelines
-+ API Deployment
-+ Dockerized Infrastructure
-+ Drift Monitoring Workflows
++ Drift Detection Workflows
++ Automated ML Evaluation
++ Statistical Monitoring
++ Feature Distribution Tracking
++ Real-Time Reporting Dashboards
 ```
 
 ### ⚙️ Stack
-`Python` `FastAPI` `Docker`
 
+`Python` `Evidently AI` `Scikit-learn` `Docker`
+
+---
+
+## 🔒 PrivateGPT — Offline AI Document Assistant
+
+🔗 [https://github.com/Sujald06/private-gpt-main](https://github.com/Sujald06/private-gpt-main)
+
+```diff
++ Fully Offline AI Workflow
++ Secure Local Document Querying
++ Vector Database Integration
++ Privacy-First AI Architecture
++ Local RAG Implementation
+```
+
+### ⚙️ Stack
+
+`Python` `FastAPI` `LlamaIndex` `Qdrant` `Gradio`
+
+---
+
+## 📈 Financial Data Forecasting
+
+🔗 [https://github.com/Sujald06/Financial-Data-Forecasting](https://github.com/Sujald06/Financial-Data-Forecasting)
+
+```diff
++ Time-Series Forecasting
++ LSTM Model Implementation
++ ARIMA Forecasting
++ Financial Trend Prediction
++ Data Preprocessing Pipelines
+```
+
+### ⚙️ Stack
+
+`Python` `TensorFlow` `Pandas` `Scikit-learn`
+
+---
+
+## 🔍 Customer Churn Analysis
+
+🔗 [https://github.com/Sujald06/Customer-Churn-Analysis](https://github.com/Sujald06/Customer-Churn-Analysis)
+
+```diff
++ Customer Churn Prediction
++ SHAP Explainability
++ Feature Engineering
++ Classification Pipelines
++ Model Performance Evaluation
+```
+
+### ⚙️ Stack
+
+`Python` `Scikit-learn` `Pandas` `SHAP`
 
 ---
 
@@ -188,8 +254,8 @@ Focus:
 
 ## 🎓 Bachelor of Engineering — Computer Engineering
 
-🏫 Mumbai University  
-📅 2021 – 2025  
+🏫 Mumbai University
+📅 2021 – 2025
 📈 CGPA: 7.25 / 10
 
 </div>
@@ -202,14 +268,14 @@ Focus:
 
 ### Covered Topics
 
-- Machine Learning
-- Deep Learning
-- NLP
-- Generative AI
-- LangChain
-- Transformers
-- RAG Systems
-- Vector Databases
+* Machine Learning
+* Deep Learning
+* NLP
+* Generative AI
+* LangChain
+* Transformers
+* RAG Systems
+* Vector Databases
 
 ---
 
@@ -243,15 +309,15 @@ Focus:
 
 <div align="center">
 
-| Domain | Expertise |
-|---|---|
-| 🤖 Generative AI | Advanced |
-| 🧠 LLM Evaluation | Advanced |
-| ⚡ Prompt Engineering | Advanced |
-| 🔍 RAG Pipelines | Advanced |
-| 🤝 Agentic AI Systems | Advanced |
-| 📊 Machine Learning | Intermediate |
-| 🚀 AI Deployment | Intermediate |
+| Domain                | Expertise    |
+| --------------------- | ------------ |
+| 🤖 Generative AI      | Advanced     |
+| 🧠 LLM Evaluation     | Advanced     |
+| ⚡ Prompt Engineering  | Advanced     |
+| 🔍 RAG Pipelines      | Advanced     |
+| 🤝 Agentic AI Systems | Advanced     |
+| 📊 Machine Learning   | Intermediate |
+| 🚀 AI Deployment      | Intermediate |
 
 </div>
 
@@ -264,3 +330,4 @@ Focus:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00C2FF,50:2563eb,100:7c3aed&section=footer"/>
 
 </div>
+```
