@@ -1,304 +1,280 @@
-````md
-<!-- ========================================================= -->
-<!--                 SUJAL DESHMUKH README                     -->
-<!-- ========================================================= -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0f1e,40:0d1b3e,100:0a0f1e&text=Sujal%20Deshmukh&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20%20·%20%20LLM%20Specialist%20%20·%20%20RAG%20%26%20Agentic%20AI%20Developer&descAlignY=62&descSize=16&descColor=94a3b8"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,50:2563eb,100:7c3aed&text=Sujal%20Deshmukh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/LLM%20ANALYST%20•%20AGENTIC%20AI%20ENGINEER%20•%20RAG%20DEVELOPER&descAlignY=60&descSize=18"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+production-ready+LLM+evaluation+pipelines+at+Innodata;Designing+autonomous+multi-agent+AI+workflows+with+CrewAI;Engineering+RAG+chatbots+with+semantic+retrieval+%26+ChromaDB;Monitoring+ML+models+in+production+using+Evidently+AI)](https://github.com/Sujald06)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Production-Ready+AI+Systems;LLM+Evaluation+%7C+RAG+Pipelines+%7C+Agentic+AI;Prompt+Engineering+%7C+RLHF+%7C+SFT;Engineering+Enterprise+Grade+AI+Applications;Developing+Autonomous+AI+Workflows"/>
+</div>
 
-<br/><br/>
+<br/>
 
-<a href="mailto:sujaldeshmukhwork@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/sujal-deshmukh-a93060349/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sujald06">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://sujaldeshmukh.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sujald06&label=PROFILE+VIEWS&style=for-the-badge&color=2563eb"/>
+[![Gmail](https://img.shields.io/badge/-sujaldeshmukhwork%40gmail.com-0a0f1e?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=0a0f1e)](mailto:sujaldeshmukhwork@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-Sujal%20Deshmukh-0a0f1e?style=flat-square&logo=linkedin&logoColor=0a66c2&labelColor=0a0f1e)](https://www.linkedin.com/in/sujal-deshmukh-a93060349/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/-sujaldeshmukh.vercel.app-0a0f1e?style=flat-square&logo=vercel&logoColor=ffffff&labelColor=0a0f1e)](https://sujaldeshmukh.vercel.app/)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Sujald06&style=flat-square&color=38bdf8&label=profile+views)](https://github.com/Sujald06)
 
 </div>
 
 ---
 
-# ⚡ ABOUT ME
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+### Who I Am
 
-```yaml
-Name: Sujal Deshmukh
-Role: AI/LLM Analyst
-Company: Innodata India Pvt. Ltd.
-Focus:
-  - Agentic AI Systems
-  - LLM Evaluation
-  - Prompt Engineering
-  - RAG Pipelines
-  - Generative AI
-  - AI Automation
-````
+I'm an **AI/ML Engineer** currently working as an **AI/LLM Analyst at Innodata India**, where I build and evaluate LLM pipelines for production AI systems.
 
-🚀 Passionate about building scalable AI systems powered by:
+My work sits at the intersection of **evaluation science and applied AI** — I design systems that don't just generate responses, but *measure, monitor, and improve* them at scale.
 
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Autonomous AI Agents
-* Prompt Engineering
-* RLHF & SFT Workflows
-* Enterprise AI Automation
+I'm deeply focused on:
 
-⚡ Experienced in building production-ready AI applications using:
+- 🧠 **LLM Evaluation** — hallucination detection, faithfulness scoring, RAG benchmarking
+- 🤖 **Agentic AI** — multi-agent frameworks, autonomous task orchestration
+- 🔍 **RAG Systems** — semantic retrieval, vector stores, production PDF chatbots
+- 📊 **ML Monitoring** — drift detection, model observability, production pipelines
+- ⚙️ **Prompt Engineering / RLHF / SFT** — alignment and fine-tuning workflows
 
-`Python` `LangChain` `CrewAI` `FastAPI` `FAISS` `ChromaDB` `Docker` `Streamlit`
+I believe in building AI systems that are **reliable, measurable, and production-ready** — not just demo-worthy.
 
----
+</td>
+<td width="45%" valign="top">
 
-# ⚒️ TECH STACK
+```python
+# sujal.py
 
-<div align="center">
+class SujalDeshmukh:
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,git,github,vscode"/>
+    role     = "AI/LLM Analyst"
+    company  = "Innodata India Pvt. Ltd."
+    location = "Mumbai, India 🇮🇳"
 
-<br/><br/>
+    expertise = [
+        "LLM Evaluation & Benchmarking",
+        "RAG Pipeline Development",
+        "Agentic AI Systems",
+        "Prompt Engineering & RLHF",
+        "ML Model Monitoring",
+    ]
 
-<img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/CrewAI-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-E11D48?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-Pipeline-2563eb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RLHF-16A34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SFT-EA580C?style=for-the-badge"/>
+    stack = {
+        "languages" : ["Python", "SQL", "R"],
+        "ai"        : ["LangChain", "CrewAI",
+                       "DeepEval", "FAISS",
+                       "HuggingFace", "OpenAI"],
+        "backend"   : ["FastAPI", "Docker",
+                       "Streamlit", "ChromaDB"],
+        "mlops"     : ["Evidently AI", "RAGAS",
+                       "PyTorch", "Scikit-learn"],
+    }
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-</div>
-
----
-
-# 💼 EXPERIENCE
-
-<div align="center">
-
-## 🏢 AI/LLM ANALYST — INNODATA INDIA PVT. LTD.
-
-📍 Remote • 📅 Nov 2025 – Present
-
-</div>
-
-### 🔹 Responsibilities
-
-✔ Large-Scale LLM Evaluation Pipelines
-✔ Prompt Engineering & Response Ranking
-✔ RLHF & SFT Workflows
-✔ AI Safety & Quality Evaluation
-✔ Hallucination Detection Systems
-✔ Python Automation Pipelines
-✔ AI Workflow Optimization
-
----
-
-# 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sujald06&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12"/>
-
-</div>
-
----
-
-## 🤖 AI Agentic Research Assistant
-
-### 🧠 Autonomous Multi-Agent AI Workflow System
-
-```diff
-+ Architected intelligent multi-agent AI ecosystems
-+ Built autonomous research & reasoning pipelines
-+ Enabled memory-aware contextual retrieval workflows
-+ Automated summarization and report generation
-+ Developed scalable AI task orchestration systems
+    currently = "Shipping AI evaluation systems"
 ```
 
-<div align="left">
-
-### ⚡ Tech Stack
-
-`Python` `CrewAI` `LangChain` `OpenAI API` `FAISS` `FastAPI`
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 LLM Evaluation & Benchmarking Platform
+## 💼 Experience
 
-### 🧪 Enterprise-Grade AI Evaluation Pipeline
+<table>
+<tr>
+<td>
 
-```diff
-+ Developed automated LLM benchmarking framework
-+ Implemented hallucination & response quality detection
-+ Designed RAG evaluation and contextual scoring metrics
-+ Integrated LLM-as-a-Judge evaluation workflows
-+ Enabled CI/CD-ready AI testing infrastructure
-```
+**AI/LLM Analyst — Innodata India Pvt. Ltd.**&emsp;`Nov 2025 – Present`&emsp;`Remote`
 
-<div align="left">
+Building and running LLM evaluation pipelines that measure accuracy, safety, and response quality at scale. Day-to-day I do prompt engineering, output ranking, RLHF/SFT collaboration, and Python automation for evaluation workflows — across global AI teams working on frontier model alignment.
 
-### ⚡ Tech Stack
-
-`Python` `DeepEval` `LangChain` `Pytest` `Hugging Face`
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 💬 Enterprise RAG Chatbot
+## 🚀 Projects
 
-### 🔍 Production-Ready Retrieval-Augmented AI System
+> *These are the systems I've built, studied deeply, and customised for real-world AI engineering workflows.*
 
-```diff
-+ Engineered semantic vector retrieval architecture
-+ Added multi-PDF ingestion & chunking workflows
-+ Integrated ChromaDB for enterprise-scale retrieval
-+ Enabled dual LLM provider support (Groq + Gemini)
-+ Implemented downloadable chat & session history
-```
+<br/>
 
-<div align="left">
+<details open>
+<summary><b>🤖 Agentic AI Research & Automation System</b> &nbsp;—&nbsp; <a href="https://github.com/Sujald06/crewAI-main">github.com/Sujald06/crewAI-main</a></summary>
+<br/>
 
-### ⚡ Tech Stack
+A scalable **multi-agent AI framework** built on CrewAI that orchestrates autonomous agents for complex research, reasoning, and task automation pipelines — without human-in-the-loop for routine workflows.
 
-`Python` `FastAPI` `Streamlit` `ChromaDB` `LangChain`
+**What it does:** Agents collaborate on tasks, delegate sub-tasks, use external tools, and produce structured outputs — mimicking how an AI team would operate.
 
-</div>
+**Key capabilities:**
+- Modular agent architecture with role-based task specialisation
+- LLM-driven task planning, memory systems & external tool integration
+- Workflow execution, document processing, and real-time coordination
+
+`Python` `CrewAI` `FastAPI` `OpenAI API` `Multi-Agent Systems` `Workflow Automation`
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>📊 LLM Evaluation & Benchmarking Tool</b> &nbsp;—&nbsp; <a href="https://github.com/Sujald06/deepeval-main">github.com/Sujald06/deepeval-main</a></summary>
+<br/>
+
+A **production-ready LLM testing pipeline** built with DeepEval — the pytest for AI. Benchmarks LLMs across hallucination, faithfulness, contextual precision, bias, and agentic task completion metrics.
+
+**What it does:** Replaces manual spot-checking with automated, repeatable test suites that run in CI/CD — giving you objective scores for every model version.
+
+**Key capabilities:**
+- 14+ research-backed evaluation metrics for RAG, agents & conversations
+- LLM-as-a-Judge scoring with synthetic dataset generation
+- CI/CD-ready workflows with regression testing and multi-model comparison
+
+`Python` `DeepEval` `LangChain` `Pytest` `LLM-as-a-Judge` `RAG Evaluation` `AI Safety`
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>💬 Enterprise RAG Chatbot (v3)</b> &nbsp;—&nbsp; <a href="https://github.com/Sujald06/rag-bot-fastapi-main">github.com/Sujald06/rag-bot-fastapi-main</a></summary>
+<br/>
+
+A **production-grade RAG system** with a clear client/server split — FastAPI backend, Streamlit frontend — built for teams that need a scalable, maintainable PDF chatbot they can actually deploy.
+
+**What it does:** Upload multiple PDFs, ask questions, get context-aware answers with source attribution. Supports Groq and Gemini as LLM providers, with a built-in vector inspector to debug retrieval quality.
+
+**Key capabilities:**
+- Async FastAPI APIs with ChromaDB vector storage & HuggingFace embeddings
+- Token-based smart chunking, session management, downloadable chat history
+- Vector database inspector for retrieval quality debugging
+
+`Python` `FastAPI` `Streamlit` `ChromaDB` `LangChain` `Groq` `Google Gemini` `HuggingFace`
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🛡️ ML Model Monitoring & Evaluation System</b> &nbsp;—&nbsp; <a href="https://github.com/Sujald06/evidently-main">github.com/Sujald06/evidently-main</a></summary>
+<br/>
+
+An **end-to-end ML observability system** using Evidently AI to track model performance in production, detect drift before it hurts users, and generate automated evaluation reports.
+
+**What it does:** Monitors live model behaviour — catches when feature distributions shift, targets drift, or model accuracy degrades — with statistical rigour (PSI, KL divergence) and interactive dashboards.
+
+**Key capabilities:**
+- Feature drift, target drift & PSI-based statistical analysis
+- 100+ built-in metrics across classification, regression & LLM evaluation
+- Real-time monitoring dashboards with automated test suites
+
+`Python` `Evidently AI` `Scikit-learn` `Pandas` `Docker` `Drift Detection` `ML Monitoring`
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🔒 PrivateGPT — Offline AI Document Assistant</b> &nbsp;—&nbsp; <a href="https://github.com/Sujald06/private-gpt-main">github.com/Sujald06/private-gpt-main</a></summary>
+<br/>
+
+A **privacy-first enterprise AI framework** for secure document interaction — fully offline, zero data sent externally. Built for industries where data compliance isn't optional: healthcare, legal, finance, defence.
+
+**What it does:** Run an LLM + RAG pipeline entirely on local infrastructure. Chat with PDFs, DOCXs, and markdown files through a Gradio UI with OpenAI-compatible APIs — no cloud dependency.
+
+**Key capabilities:**
+- 100% offline deployment — no API calls, no data leakage
+- RAG pipeline via LlamaIndex + Qdrant vector database
+- OpenAI-compatible FastAPI endpoints for easy integration
+
+`Python` `FastAPI` `LlamaIndex` `Qdrant` `Gradio` `Privacy-First AI` `Offline LLM`
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>📈 Financial Data Forecasting</b> &nbsp;—&nbsp; <a href="https://github.com/Sujald06/Financial-Data-Forecasting">github.com/Sujald06/Financial-Data-Forecasting</a></summary>
+<br/>
+
+End-to-end time-series forecasting pipeline for financial data — from preprocessing and feature engineering through model training (ARIMA, LSTM, regression) to evaluation and visualisation.
+
+`Python` `Scikit-learn` `TensorFlow` `Pandas` `ARIMA` `LSTM` `Time Series`
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🔍 Customer Churn Analysis</b> &nbsp;—&nbsp; <a href="https://github.com/Sujald06/Customer-Churn-Analysis">github.com/Sujald06/Customer-Churn-Analysis</a></summary>
+<br/>
+
+Full ML classification pipeline covering EDA, feature selection, class imbalance handling, model comparison, and SHAP-based interpretability for understanding what actually drives churn.
+
+`Python` `Scikit-learn` `Pandas` `SHAP` `Classification` `EDA` `Interpretability`
+
+</details>
 
 ---
 
-## 🛡️ ML Monitoring & Drift Detection System
-
-### 📈 Real-Time Production ML Observability Platform
-
-```diff
-+ Built automated ML monitoring pipelines
-+ Implemented feature & target drift detection
-+ Added statistical performance tracking workflows
-+ Generated enterprise-grade evaluation dashboards
-+ Enabled real-time reporting and anomaly monitoring
-```
-
-<div align="left">
-
-### ⚡ Tech Stack
-
-`Python` `Evidently AI` `Scikit-learn` `Docker`
-
-</div>
-
----
-
-# 🎓 EDUCATION
+## 🛠️ Tech Stack
 
 <div align="center">
 
-## 🎓 Bachelor of Engineering — Computer Engineering
-
-🏫 Mumbai University
-📅 2021 – 2025
-📈 CGPA: 7.25 / 10
+| Layer | Tools |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
+| **LLM & AI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![CrewAI](https://img.shields.io/badge/CrewAI-0f172a?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square) |
+| **Evaluation** | ![DeepEval](https://img.shields.io/badge/DeepEval-111827?style=flat-square) ![RAGAS](https://img.shields.io/badge/RAGAS-6366f1?style=flat-square) ![Evidently](https://img.shields.io/badge/Evidently_AI-059669?style=flat-square) |
+| **ML / DL** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Backend & Deploy** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Visualisation** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
 
 </div>
 
 ---
 
-# 📜 CERTIFICATIONS
-
-## 🏅 Data Science & AI Certification — Udemy
-
-### Covered Topics
-
-* Machine Learning
-* Deep Learning
-* NLP
-* Generative AI
-* LangChain
-* Transformers
-* RAG Systems
-* Vector Databases
-
----
-
-# 📊 GITHUB ANALYTICS
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sujald06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sujald06&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true"/>
+&nbsp;
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujald06&theme=github-dark-blue&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujald06&theme=tokyonight&hide_border=true"/>
+<br/>
 
-<br/><br/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujald06&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# ⚡ CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujald06&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujald06&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 🏆 SPECIALIZATIONS
+## 🎓 Education & Certifications
 
-<div align="center">
+**B.E. Computer Engineering** — Mumbai University &emsp; `2021–2025` &emsp; CGPA: 7.25/10
 
-| Domain                | Expertise    |
-| --------------------- | ------------ |
-| 🤖 Generative AI      | Advanced     |
-| 🧠 LLM Evaluation     | Advanced     |
-| ⚡ Prompt Engineering  | Advanced     |
-| 🔍 RAG Pipelines      | Advanced     |
-| 🤝 Agentic AI Systems | Advanced     |
-| 📊 Machine Learning   | Intermediate |
-| 🚀 AI Deployment      | Intermediate |
-
-</div>
+**Data Science & AI** — Udemy &emsp; Machine Learning · NLP · Generative AI · LangChain · Transformers · RAG Systems
 
 ---
 
 <div align="center">
 
-## 💡 BUILDING AI SYSTEMS THAT THINK • RETRIEVE • REASON • SCALE
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f172a,50:2563eb,100:7c3aed&section=footer"/>
+*"I don't just build AI — I build systems that know when AI is wrong."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0a0f1e,40:0d1b3e,100:0a0f1e&section=footer"/>
 
 </div>
-```
