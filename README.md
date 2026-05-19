@@ -1,15 +1,12 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,50:111827,100:0B1120&text=Sujal%20Deshmukh&fontSize=54&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20•%20LLM%20Evaluation%20•%20RAG%20Systems%20•%20Agentic%20AI&descAlignY=60&descSize=17&descColor=94A3B8"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+production-ready+LLM+evaluation+systems+at+Innodata;Designing+autonomous+multi-agent+AI+workflows+with+CrewAI;Engineering+RAG+pipelines+with+semantic+retrieval+%26+vector+databases;Monitoring+production+ML+systems+using+Evidently+AI)](https://github.com/Sujald06)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+production-ready+LLM+evaluation+systems;Designing+autonomous+multi-agent+AI+workflows;Engineering+RAG+pipelines+with+vector+databases;Monitoring+production+ML+systems+using+Evidently+AI)](https://github.com/Sujald06)
 
 </div>
 
@@ -37,268 +34,124 @@
 
 ---
 
-<table>
-<tr>
-<td width="56%" valign="top">
+# 👨‍💻 About Me
 
-## 👨‍💻 About Me
+I'm an **AI/ML Engineer** working as an **AI/LLM Analyst at Innodata India**, focused on building scalable and production-ready AI systems.
 
-I'm an **AI/ML Engineer** currently working as an **AI/LLM Analyst at Innodata India**, where I build scalable evaluation systems for production-grade AI applications.
+My expertise includes:
 
-My work focuses on developing AI systems that are:
+- 🧠 LLM Evaluation & Benchmarking
+- 🤖 Agentic AI Systems
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 📊 ML Monitoring & Drift Detection
+- ⚙️ Prompt Engineering, RLHF & SFT
 
-- **Reliable**
-- **Measurable**
-- **Observable**
-- **Deployment-Ready**
-
-I specialize in designing and evaluating systems across:
-
-### Core Focus Areas
-
-- 🧠 **LLM Evaluation & Benchmarking**
-  - Hallucination Detection
-  - Faithfulness Scoring
-  - RAG Evaluation Pipelines
-  - AI Quality Assessment
-
-- 🤖 **Agentic AI Systems**
-  - Multi-Agent Architectures
-  - Autonomous Workflows
-  - AI Reasoning Pipelines
-  - Task Orchestration
-
-- 🔍 **RAG Engineering**
-  - Semantic Retrieval
-  - Vector Databases
-  - Enterprise Chat Systems
-  - Retrieval Optimization
-
-- 📊 **ML Monitoring**
-  - Drift Detection
-  - Model Observability
-  - Production Monitoring
-  - Statistical Evaluation
-
-- ⚙️ **Alignment & Optimization**
-  - Prompt Engineering
-  - RLHF
-  - SFT Workflows
-  - Response Ranking
-
-I enjoy building systems that combine **research-grade evaluation** with **real-world engineering scalability**.
-
-</td>
-
-<td width="44%" valign="top">
-
-```python
-# sujal.py
-
-class SujalDeshmukh:
-
-    role = "AI/LLM Analyst"
-
-    company = (
-        "Innodata India Pvt. Ltd."
-    )
-
-    location = "Mumbai, India 🇮🇳"
-
-    expertise = [
-
-        "LLM Evaluation",
-        "RAG Pipelines",
-        "Agentic AI Systems",
-        "Prompt Engineering",
-        "ML Monitoring"
-
-    ]
-
-    stack = {
-
-        "languages": [
-            "Python",
-            "SQL",
-            "R"
-        ],
-
-        "llm_ai": [
-            "LangChain",
-            "CrewAI",
-            "DeepEval",
-            "FAISS",
-            "OpenAI",
-            "HuggingFace"
-        ],
-
-        "backend": [
-            "FastAPI",
-            "Docker",
-            "Streamlit",
-            "ChromaDB"
-        ],
-
-        "mlops": [
-            "Evidently AI",
-            "RAGAS",
-            "PyTorch",
-            "Scikit-learn"
-        ]
-    }
-
-    currently = (
-        "Building scalable AI "
-        "evaluation systems"
-    )
-````
-
-</td>
-</tr>
-</table>
+I enjoy building AI systems that are:
+- Reliable
+- Measurable
+- Observable
+- Production-ready
 
 ---
 
 # 💼 Experience
 
-<table>
-<tr>
-<td>
-
-### AI/LLM Analyst — Innodata India Pvt. Ltd.
-
+## AI/LLM Analyst — Innodata India Pvt. Ltd.
 `Nov 2025 – Present` • `Remote`
 
-Building and evaluating large-scale LLM systems focused on response quality, hallucination detection, safety evaluation, and benchmarking workflows for production AI systems.
-
-### Key Responsibilities
-
-* Developing automated AI evaluation pipelines
-* Prompt engineering & response ranking
-* RLHF / SFT workflow collaboration
-* Python automation for scalable testing systems
-* AI safety & quality evaluation
-* LLM benchmarking & observability workflows
-
-</td>
-</tr>
-</table>
+### Responsibilities
+- Building automated LLM evaluation pipelines
+- Prompt engineering & response ranking
+- RLHF / SFT workflow collaboration
+- AI quality & hallucination detection
+- Python automation for scalable testing systems
 
 ---
 
 # 🚀 Featured Projects
 
-> *Production-ready AI systems focused on evaluation, retrieval, monitoring, and autonomous workflows.*
-
-<br/>
-
 ## 🤖 Agentic AI Research & Automation System
 
-### 🔗 Repository
-
-<a href="https://github.com/Sujald06/crewAI-main">github.com/Sujald06/crewAI-main</a>
-
-A scalable **multi-agent AI framework** built using CrewAI for autonomous research, reasoning, and task orchestration workflows.
+🔗 Repository:  
+https://github.com/Sujald06/crewAI-main
 
 ### Highlights
-
-* Multi-agent architecture with role-based coordination
-* Autonomous reasoning & task delegation
-* Memory-aware contextual workflows
-* External tool integration
-* Automated report generation pipelines
+- Multi-agent AI architecture
+- Autonomous reasoning workflows
+- Memory-aware contextual retrieval
+- AI-powered task orchestration
+- Automated report generation
 
 ### Tech Stack
-
-`Python` `CrewAI` `FastAPI` `LangChain` `OpenAI API` `FAISS`
+`Python` `CrewAI` `FastAPI` `LangChain` `OpenAI API`
 
 ---
 
 ## 📊 LLM Evaluation & Benchmarking Platform
 
-### 🔗 Repository
-
-<a href="https://github.com/Sujald06/deepeval-main">github.com/Sujald06/deepeval-main</a>
-
-An enterprise-grade **LLM evaluation framework** designed for benchmarking RAG systems, conversational agents, and generative AI applications.
+🔗 Repository:  
+https://github.com/Sujald06/deepeval-main
 
 ### Highlights
-
-* Hallucination & faithfulness detection
-* RAG evaluation metrics & scoring
-* LLM-as-a-Judge workflows
-* Automated regression testing
-* CI/CD-ready evaluation pipelines
+- Hallucination & faithfulness detection
+- RAG evaluation metrics
+- LLM-as-a-Judge workflows
+- Automated regression testing
+- CI/CD-ready evaluation pipelines
 
 ### Tech Stack
-
-`Python` `DeepEval` `LangChain` `Pytest` `HuggingFace`
+`Python` `DeepEval` `LangChain` `Pytest`
 
 ---
 
 ## 💬 Enterprise RAG Chatbot
 
-### 🔗 Repository
-
-<a href="https://github.com/Sujald06/rag-bot-fastapi-main">github.com/Sujald06/rag-bot-fastapi-main</a>
-
-A production-ready **Retrieval-Augmented Generation system** with FastAPI backend and Streamlit frontend for enterprise document interaction.
+🔗 Repository:  
+https://github.com/Sujald06/rag-bot-fastapi-main
 
 ### Highlights
-
-* Multi-PDF ingestion workflows
-* Semantic vector retrieval
-* ChromaDB vector storage
-* Groq + Gemini dual LLM support
-* Downloadable chat & session history
+- Multi-PDF ingestion workflows
+- Semantic vector retrieval
+- ChromaDB vector storage
+- Groq + Gemini integration
+- Downloadable chat history
 
 ### Tech Stack
-
-`Python` `FastAPI` `Streamlit` `ChromaDB` `LangChain`
+`Python` `FastAPI` `Streamlit` `ChromaDB`
 
 ---
 
 ## 🛡️ ML Monitoring & Drift Detection System
 
-### 🔗 Repository
-
-<a href="https://github.com/Sujald06/evidently-main">github.com/Sujald06/evidently-main</a>
-
-A real-time **ML observability platform** for monitoring production model performance, drift detection, and automated reporting.
+🔗 Repository:  
+https://github.com/Sujald06/evidently-main
 
 ### Highlights
-
-* Feature & target drift monitoring
-* PSI-based statistical analysis
-* Real-time evaluation dashboards
-* Automated monitoring pipelines
-* Production ML observability workflows
+- Feature & target drift monitoring
+- Production ML observability
+- Automated monitoring dashboards
+- Statistical evaluation workflows
+- Real-time reporting
 
 ### Tech Stack
-
 `Python` `Evidently AI` `Scikit-learn` `Docker`
 
 ---
 
-## 🔒 PrivateGPT — Offline AI Document Assistant
+## 🔒 PrivateGPT — Offline AI Assistant
 
-### 🔗 Repository
-
-<a href="https://github.com/Sujald06/private-gpt-main">github.com/Sujald06/private-gpt-main</a>
-
-A privacy-first **offline AI assistant** built for secure enterprise document interaction without external API dependency.
+🔗 Repository:  
+https://github.com/Sujald06/private-gpt-main
 
 ### Highlights
-
-* Fully offline AI workflows
-* Local RAG pipeline architecture
-* Qdrant vector database integration
-* OpenAI-compatible API endpoints
-* Secure document querying system
+- Fully offline AI workflows
+- Secure local document querying
+- Qdrant vector database integration
+- OpenAI-compatible API endpoints
+- Privacy-first architecture
 
 ### Tech Stack
-
-`Python` `FastAPI` `LlamaIndex` `Qdrant` `Gradio`
+`Python` `FastAPI` `LlamaIndex` `Qdrant`
 
 ---
 
@@ -306,15 +159,15 @@ A privacy-first **offline AI assistant** built for secure enterprise document in
 
 <div align="center">
 
-| Category          | Technologies                                      |
-| ----------------- | ------------------------------------------------- |
-| **Languages**     | Python • SQL • R                                  |
-| **LLM & AI**      | LangChain • CrewAI • OpenAI • HuggingFace • FAISS |
-| **Evaluation**    | DeepEval • RAGAS • Evidently AI                   |
-| **Backend**       | FastAPI • Docker • Streamlit                      |
-| **ML/DL**         | PyTorch • TensorFlow • Scikit-learn               |
-| **Databases**     | ChromaDB • Qdrant                                 |
-| **Visualisation** | Power BI • Tableau                                |
+| Category | Technologies |
+|---|---|
+| **Languages** | Python • SQL • R |
+| **LLM & AI** | LangChain • CrewAI • OpenAI • HuggingFace • FAISS |
+| **Evaluation** | DeepEval • RAGAS • Evidently AI |
+| **Backend** | FastAPI • Docker • Streamlit |
+| **ML/DL** | PyTorch • TensorFlow • Scikit-learn |
+| **Databases** | ChromaDB • Qdrant |
+| **Visualization** | Power BI • Tableau |
 
 </div>
 
@@ -336,25 +189,32 @@ A privacy-first **offline AI assistant** built for secure enterprise document in
 
 ---
 
-# 🎓 Education & Certifications
+# 🎓 Education
 
-### 🎓 B.E. Computer Engineering — Mumbai University
-
+## B.E. Computer Engineering — Mumbai University
 `2021 – 2025` • `CGPA: 7.25 / 10`
 
-### 🏅 Data Science & AI Certification — Udemy
+---
 
-Machine Learning • NLP • Generative AI • LangChain • Transformers • RAG Systems
+# 📜 Certifications
+
+## Data Science & AI — Udemy
+
+- Machine Learning
+- NLP
+- Generative AI
+- LangChain
+- Transformers
+- RAG Systems
 
 ---
 
 <div align="center">
 
-### 💡 *"Building AI systems that evaluate, retrieve, reason, and scale."*
+### 💡 "Building AI systems that evaluate, retrieve, reason, and scale."
 
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0B1120,50:111827,100:0B1120&section=footer"/>
 
 </div>
-```
