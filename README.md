@@ -110,7 +110,6 @@ Focus:
 ✔ AI Workflow Optimization  
 
 ---
-````md
 # 🚀 FEATURED PROJECTS
 
 <div align="center">
@@ -121,73 +120,60 @@ Focus:
 
 ---
 
-## 🤖 AI Agentic Research Assistant
+## 🤖 AI Agentic Research Assistant  
+### 🧠 Autonomous Multi-Agent AI Workflow System
 
 ```diff
-+ Multi-Agent AI Architecture
-+ Autonomous Research Workflows
-+ Intelligent Task Orchestration
-+ AI-Powered Summarization
-+ Automated Report Generation
-````
++ Architected intelligent multi-agent AI ecosystems
++ Built autonomous research & reasoning pipelines
++ Enabled memory-aware contextual retrieval workflows
++ Automated summarization and report generation
++ Developed scalable AI task orchestration systems
+<div align="left">
+⚡ Tech Stack
 
-### ⚙️ Stack
+Python CrewAI LangChain OpenAI API FAISS FastAPI
 
-`Python` `CrewAI` `FastAPI` `OpenAI API` `Multi-Agent AI`
+</div>
+📊 LLM Evaluation & Benchmarking Platform
+🧪 Enterprise-Grade AI Evaluation Pipeline
++ Developed automated LLM benchmarking framework
++ Implemented hallucination & response quality detection
++ Designed RAG evaluation and contextual scoring metrics
++ Integrated LLM-as-a-Judge evaluation workflows
++ Enabled CI/CD-ready AI testing infrastructure
+<div align="left">
+⚡ Tech Stack
 
----
+Python DeepEval LangChain Pytest Hugging Face
 
-## 📊 LLM Evaluation & Benchmarking Tool
+</div>
+💬 Enterprise RAG Chatbot
+🔍 Production-Ready Retrieval-Augmented AI System
++ Engineered semantic vector retrieval architecture
++ Added multi-PDF ingestion & chunking workflows
++ Integrated ChromaDB for enterprise-scale retrieval
++ Enabled dual LLM provider support (Groq + Gemini)
++ Implemented downloadable chat & session history
+<div align="left">
+⚡ Tech Stack
 
-```diff
-+ Automated LLM Benchmarking
-+ Hallucination Detection
-+ RAG Evaluation Metrics
-+ LLM-as-a-Judge Workflows
-+ CI/CD Evaluation Pipelines
-```
+Python FastAPI Streamlit ChromaDB LangChain
 
-### ⚙️ Stack
+</div>
+🛡️ ML Monitoring & Drift Detection System
+📈 Real-Time Production ML Observability Platform
++ Built automated ML monitoring pipelines
++ Implemented feature & target drift detection
++ Added statistical performance tracking workflows
++ Generated enterprise-grade evaluation dashboards
++ Enabled real-time reporting and anomaly monitoring
+<div align="left">
+⚡ Tech Stack
 
-`Python` `DeepEval` `LangChain` `Pytest` `RAG Evaluation`
+Python Evidently AI Scikit-learn Docker
 
----
-
-## 💬 Enterprise RAG Chatbot
-
-```diff
-+ Multi-PDF Upload Support
-+ Semantic Vector Retrieval
-+ ChromaDB Integration
-+ Dual LLM Support (Groq + Gemini)
-+ Downloadable Chat History
-```
-
-### ⚙️ Stack
-
-`Python` `FastAPI` `Streamlit` `ChromaDB` `LangChain`
-
----
-
-## 🛡️ ML Model Monitoring & Evaluation System
-
-```diff
-+ Drift Detection Workflows
-+ Automated ML Evaluation
-+ Statistical Monitoring
-+ Feature Distribution Tracking
-+ Real-Time Reporting Dashboards
-```
-
-### ⚙️ Stack
-
-`Python` `Evidently AI` `Scikit-learn` `Docker`
-
----
-
-```
-```
-
+</div>
 
 ---
 
